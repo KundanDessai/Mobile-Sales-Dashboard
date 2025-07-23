@@ -20,7 +20,7 @@ This dashboard helps decision-makers and sales analysts gain insights into mobil
 
 - **Dashboard View**
   
-<img width="986" height="548" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/1439a810-6c72-46b6-ba19-1ff3f4143109" />
+<img width="986" height="548" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/19009698-0764-4542-975a-35fef41935ac" />
 
 
 - **MTD Report**
